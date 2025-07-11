@@ -30,7 +30,6 @@
 #include <gazebo_ros/utils.hpp>
 #include <rosgraph_msgs/msg/clock.hpp>
 
-#include <tinyxml.h>
 #include <algorithm>
 #include <memory>
 #include <sstream>

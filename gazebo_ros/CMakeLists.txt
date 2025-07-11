@@ -30,7 +30,6 @@ find_package(rcl REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(rmw REQUIRED)
 find_package(std_srvs REQUIRED)
-find_package(tinyxml_vendor REQUIRED)
 
 link_directories(
   ${gazebo_dev_LIBRARY_DIRS}
